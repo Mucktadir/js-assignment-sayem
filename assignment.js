@@ -17,7 +17,7 @@ function kilometerToMeter(distanceInKm) {
 
 }
 
-console.log( kilometerToMeter(0));
+
 
 
 //problem 2 budgetCalculator
@@ -80,6 +80,7 @@ function hotelCost(numOfDay) {
     }
 
 }
+
 
 
 
